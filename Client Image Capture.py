@@ -29,3 +29,4 @@ while True:
        break
 
 os.remove('frame.png')
+print('hey')
