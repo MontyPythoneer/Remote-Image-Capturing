@@ -26,11 +26,3 @@ while True:
 rewrite=open('Retrieved.png', 'wb')
 rewrite.write(eval(sections))
 rewrite.close()
-
-    
-    
-
-    
-
-
-    
